@@ -1,0 +1,38 @@
+/*   header-styling */
+.header_style {
+  padding-left: 70px;
+  padding-right: 40px;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white !important;
+}
+.nav_style {
+  background-color: rgba(221, 192, 28, 0.788);
+}
+.navbar-brand {
+  color: white !important;
+}
+.priceButton_style {
+  margin-left: 100px;
+}
+
+.cart_style {
+  font-size: 24px;
+  margin-left: 25px;
+  margin-right: 400px;
+  padding-top: 3px;
+}
+
+/*   side-styling */
+.side_style div {
+  cursor: pointer;
+}
+
+/*   footer-styling */
+.footer_style {
+  background-color: rgba(221, 192, 28, 0.788);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+}
